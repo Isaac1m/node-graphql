@@ -1,0 +1,38 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "MPB"
+    },
+    {
+      "id": "2",
+      "name": "Rick Sanchez",
+      "age": 48,
+      "email": "c137@adultswim.com"
+    },
+    {
+      "id": "3",
+      "name": "Morty Smith",
+      "age": 13,
+      "email": "morty@as.com"
+    },
+    {
+      "id": "4",
+      "name": "Jerry Smith",
+      "age": 36,
+      "email": "douche@as.com"
+    },
+    {
+      "id": "5",
+      "name": "Berth Sanchez",
+      "age": 34,
+      "email": "berth@as.com"
+    },
+    {
+      "id": "6",
+      "name": "Summer Smith",
+      "age": 15,
+      "email": "summer@as.com"
+    }
+  ]
+}
